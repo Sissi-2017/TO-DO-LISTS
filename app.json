@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/firstpage/firstpage",
+    "pages/index/index",   
+    "pages/detail/detail"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#3aa8db",
+    "navigationBarTitleText": "To-Do-List",
+    "navigationBarTextStyle":"white"
+  }
+}
